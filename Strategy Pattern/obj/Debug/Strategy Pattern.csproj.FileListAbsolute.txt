@@ -1,0 +1,7 @@
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csprojAssemblyReference.cache
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+C:\Users\Iman\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.pdb
